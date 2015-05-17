@@ -22,7 +22,6 @@ public class NightModeBroadcastReceiver extends WakefulBroadcastReceiver {
          startWakefulService(context, service);
     }
 
-
     public void scheduleAlarm(Context context) {
 
         Log.d("LOL", " schedule alarm called");

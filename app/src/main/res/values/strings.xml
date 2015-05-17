@@ -1,6 +1,8 @@
 <resources>
-    <string name="app_name">SilentMode</string>
+    <string name="app_name">Night Mode</string>
     <string name="start_time">FROM</string>
     <string name="end_time">TILL</string>
-    <string name="save">SET SLEEP MODE</string>
+    <string name="save">SAVE TIME RANGE</string>
+    <string name="night_time_active">Night mode is ON</string>
+    <string name="night_time_inactive">Night mode is OFF</string>
 </resources>
